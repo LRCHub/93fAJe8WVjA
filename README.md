@@ -1,0 +1,53 @@
+# Steppenwolf – Born To Be Wild
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:14.51] Get your motor runnin'
+[00:17.65] Head out on the highway
+[00:20.95] Looking for adventure
+[00:23.83] In whatever comes our way
+[00:36.33] 
+[00:27.78] Yeah, darlin' gonna make it happen
+[00:31.24] Take the world in a love embrace
+[00:34.79] Fire all of your guns at once
+[00:37.72] And explode into space
+[00:48.72] 
+[00:40.74] I like smoke and lightnin'
+[00:44.18] Heavy metal thunder
+[00:47.35] Racing with the wind
+[00:50.13] And the feeling that I'm under
+[01:05.13] 
+[00:53.93] Yeah, darlin' gonna make it happen
+[00:57.68] Take the world in a love embrace
+[01:01.15] Fire all of your guns at once
+[01:04.25] And explode into space
+[01:15.25] 
+[01:07.07] Like a true nature's child
+[01:10.12] We were born
+[01:11.41] Born to be wild
+[01:13.51] We can climb so high
+[01:15.64] I never wanna die
+[01:24.14] 
+[01:20.36] Born to be wild
+[01:27.62] Born to be wild
+[01:35.12] 
+[02:10.43] Get your motor runnin'
+[02:13.23] Head out on the highway
+[02:16.41] Looking for adventure
+[02:19.57] In whatever comes our way
+[02:32.07] 
+[02:23.22] Yeah, darlin' gonna make it happen
+[02:26.64] Take the world in a love embrace
+[02:30.03] Fire all of your guns at once
+[02:33.28] And explode into space
+[02:44.28] 
+[02:36.05] Like a true nature's child
+[02:39.09] We were born
+[02:40.34] Born to be wild
+[02:42.49] We can climb so high
+[02:44.67] I never wanna die
+[02:53.17] 
+[02:49.08] Born to be wild
+[02:56.58] Born to be wild
+```
